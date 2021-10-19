@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm [Grant](www.grantbyrne.com) and I like to write code. My day job is coding for a brokerage. After hours I like to code on personal projects, some of which are open source.
+Hi, I'm [Grant](http://www.grantbyrne.com/) and I like to write code. My day job is coding for a brokerage. After hours I like to code on personal projects, some of which are open source.
 
 When I'm not coding, I'm usually outside climbing rocks or riding my bike.
 
